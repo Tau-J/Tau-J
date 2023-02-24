@@ -6,10 +6,7 @@
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Tau-J&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<div align="center">
-<a href="https://github.com/open-mmlab/mmpose">
-  <img src="https://github.com/open-mmlab/mmpose/blob/1.x/resources/mmpose-logo.png" /></a>
-</div>
+#  🥳 🚀 Projects
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/13503330/221138554-110240d8-e887-4b9a-90b1-2fbdc982e9de.gif" width=400 height=300/><img src="https://user-images.githubusercontent.com/13503330/221125176-85015a13-9648-4f0d-a17c-1cbb469efacf.gif" width=250 height=300/><img src="https://user-images.githubusercontent.com/13503330/221125310-7eeb2212-907e-427f-97af-af799d70a4c5.gif" width=250 height=300/>

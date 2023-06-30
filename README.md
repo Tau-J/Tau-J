@@ -1,12 +1,24 @@
-<div align="center">
-  <a href="https://www.zhihu.com/people/jing-zi-64/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-</div>
-  
 #  🙋 Hello
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
+Tau, Computer Vision Reseach Engineer
+
+Interests
+
+- Lightweight, Real-time yet High-performance  
+- Sharing academic cutting-edge knowledge
+- Focusing on AI implementation and productization
+
+Blog
+
+<div align="center">
+  <a href="https://www.zhihu.com/people/jing-zi-64/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+</div>
+
 #  🥳 🚀 Projects
+
+RTMPose
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/13503330/221138554-110240d8-e887-4b9a-90b1-2fbdc982e9de.gif" width=200 height=150/><img src="https://user-images.githubusercontent.com/13503330/221125176-85015a13-9648-4f0d-a17c-1cbb469efacf.gif" width=120 height=150/><img src="https://user-images.githubusercontent.com/13503330/221125310-7eeb2212-907e-427f-97af-af799d70a4c5.gif" width=120 height=150/>

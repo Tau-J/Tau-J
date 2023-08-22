@@ -2,11 +2,11 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
-Tau, Computer Vision Reseach Engineer
+Tau, Computer Vision Research Engineer
 
 Interests
 
-- Lightweight, Real-time yet High-performance  
+- Lightweight, Real-time yet High-performance
 - Sharing academic cutting-edge knowledge
 - Focusing on AI implementation and productization
 

@@ -1,10 +1,10 @@
-#  🙋 Hello
+#  🙋 Tau
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
-Tau, Computer Vision Research Engineer
+I'm a research engineer of Shanghai AI lab. Currently, I'm the maintainer of MMPose.
 
-Interests
+Interests:
 
 - Lightweight, Real-time yet High-performance
 - Sharing academic cutting-edge knowledge
@@ -12,7 +12,7 @@ Interests
 
 Blog
 
-<div align="center">
+<div align="left">
   <a href="https://www.zhihu.com/people/jing-zi-64/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 </div>
 

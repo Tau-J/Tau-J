@@ -4,6 +4,12 @@
 
 I'm a research engineer of Shanghai AI lab. Currently, I'm the maintainer of MMPose.
 
+Skills:
+
+- Pose Estimation
+- LLM SFT
+- LLM as Controller
+
 Interests:
 
 - Lightweight, Real-time yet High-performance

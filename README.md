@@ -1,20 +1,15 @@
 #  🙋 Tau
 
+![](https://komarev.com/ghpvc/?username=Tau-J)
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
-I'm a research engineer of Shanghai AI lab. Currently, I'm the maintainer of MMPose.
+I am a research engineer of Shanghai AI lab. Currently, I'm the maintainer of MMPose.
 
-Skills:
-
-- Pose Estimation
-- LLM SFT
-- LLM as Controller
-
-Interests:
-
-- Lightweight, Real-time yet High-performance
-- Sharing academic cutting-edge knowledge
-- Focusing on AI implementation and productization
+Research interests: building lightweight, real-time yet high-performance deeplearning solutions, and AI implementation and productization
+- Human-centric perception tasks, focusing on human pose estimation (e.g. RTMPose, RTMO, RTMW)
+- Large Language Models pretraining and SFT (e.g. InternLM)
+- LLM As Agent (e.g. AgentLego)
 
 Blog
 

@@ -19,7 +19,7 @@ Blog
 
 #  🥳 🚀 My Projects
 
-## RTMPose
+- RTMPose (arXiv 2023): [\[technical report\]](https://arxiv.org/abs/2303.07399)
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/13503330/221138554-110240d8-e887-4b9a-90b1-2fbdc982e9de.gif" width=200 height=150/><img src="https://user-images.githubusercontent.com/13503330/221125176-85015a13-9648-4f0d-a17c-1cbb469efacf.gif" width=120 height=150/><img src="https://user-images.githubusercontent.com/13503330/221125310-7eeb2212-907e-427f-97af-af799d70a4c5.gif" width=120 height=150/>
@@ -30,4 +30,14 @@ Blog
 </div>
 <div align=center>
 <img src="https://user-images.githubusercontent.com/13503330/221124560-af84b291-4300-4027-87ae-8c3a201c3f67.gif" width=150 height=170/><img src="https://user-images.githubusercontent.com/13503330/221138017-10431ab4-e515-4c32-8fa7-8748e2d17a58.gif" width=300 height=170/>
+</div>
+
+- RTMO (CVPR 2024 Poster): [\[paper\]](https://arxiv.org/abs/2312.07526)
+<div align=center>
+<img src="https://github.com/open-mmlab/mmpose/assets/26127467/54d5555a-23e5-4308-89d1-f0c82a6734c2" width=450 height=300/>
+</div>
+
+- RTMW: \[technical report\](coming soon)
+<div align=center>
+<img src="https://github.com/open-mmlab/mmpose/assets/13503330/635c4618-c459-45e8-84a5-eb68cf338d00" width=450 height=550/>
 </div>

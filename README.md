@@ -4,12 +4,12 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
-I am a researcher in Shanghai. I used to be the maintainer of MMPose.
+I am a researcher currently residing in Shanghai. I was once the maintainer of [MMPose](https://github.com/open-mmlab/mmpose), and now I am employed at [Moonshot.AI](http://moonshot.ai), working on the algorithm development for the large language model, [Kimi](http://kimi.moonshot.cn).
 
 Research interests: building lightweight, real-time yet high-performance deeplearning solutions, and AI implementation and productization
 - Human-centric perception tasks, focusing on human pose estimation (e.g. [RTMPose](https://arxiv.org/abs/2303.07399), [RTMO (CVPR2024 Accepted)](https://arxiv.org/abs/2312.07526), [RTMW](https://github.com/open-mmlab/mmpose/blob/main/configs/wholebody_2d_keypoint/rtmpose/cocktail14/rtmw_cocktail14.md))
-- Large Language Models pretraining and alignment (e.g. [InternLM/InternLM2](https://github.com/InternLM/InternLM), [Kimi](http://kimi.moonshot.cn))
-- LLM-based applications (e.g. [AgentLego](https://github.com/open-mmlab/agentlego))
+- Large Language Models pretraining and alignment (e.g. [InternLM](https://github.com/InternLM/InternLM), [InternLM2](https://arxiv.org/abs/2403.17297) [Kimi](http://kimi.moonshot.cn))
+- LLM-based agent applications (e.g. [AgentLego](https://github.com/open-mmlab/agentlego))
 
 Blog
 

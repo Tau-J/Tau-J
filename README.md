@@ -8,7 +8,7 @@ I am a researcher currently residing in Shanghai. I was once the maintainer of [
 
 Research interests: building lightweight, real-time yet high-performance deeplearning solutions, and AI implementation and productization
 - Human-centric perception tasks, focusing on human pose estimation (e.g. [RTMPose](https://arxiv.org/abs/2303.07399), [RTMO (CVPR2024 Accepted)](https://arxiv.org/abs/2312.07526), [RTMW](https://github.com/open-mmlab/mmpose/blob/main/configs/wholebody_2d_keypoint/rtmpose/cocktail14/rtmw_cocktail14.md))
-- Large Language Models pretraining and alignment (e.g. [InternLM](https://github.com/InternLM/InternLM), [InternLM2](https://arxiv.org/abs/2403.17297) [Kimi](http://kimi.moonshot.cn))
+- Large Language Models pretraining and alignment (e.g. [InternLM](https://github.com/InternLM/InternLM), [InternLM2](https://arxiv.org/abs/2403.17297), [Kimi](http://kimi.moonshot.cn))
 - LLM-based agent applications (e.g. [AgentLego](https://github.com/open-mmlab/agentlego))
 
 Blog

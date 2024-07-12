@@ -7,7 +7,7 @@
 I am a researcher currently residing in Shanghai. I was once the maintainer of [MMPose](https://github.com/open-mmlab/mmpose), and now I am employed at [Moonshot.AI](http://moonshot.ai), working on the algorithm development for the large language model, [Kimi](http://kimi.moonshot.cn).
 
 Research interests: building lightweight, real-time yet high-performance deeplearning solutions, and AI implementation and productization
-- Human-centric perception tasks, focusing on human pose estimation (e.g. [RTMPose](https://arxiv.org/abs/2303.07399), [RTMO (CVPR2024 Accepted)](https://arxiv.org/abs/2312.07526), [RTMW](https://github.com/open-mmlab/mmpose/blob/main/configs/wholebody_2d_keypoint/rtmpose/cocktail14/rtmw_cocktail14.md))
+- Human-centric perception tasks, focusing on human pose estimation (e.g. [RTMPose](https://arxiv.org/abs/2303.07399), [RTMO (CVPR2024 Accepted)](https://arxiv.org/abs/2312.07526), [RTMW](https://arxiv.org/abs/2407.08634))
 - Large Language Models pretraining and alignment (e.g. [InternLM](https://github.com/InternLM/InternLM), [InternLM2](https://arxiv.org/abs/2403.17297), [Kimi](http://kimi.moonshot.cn))
 - LLM-based agent applications (e.g. [AgentLego](https://github.com/open-mmlab/agentlego))
 
@@ -37,7 +37,8 @@ Blog
 <img src="https://github.com/open-mmlab/mmpose/assets/26127467/54d5555a-23e5-4308-89d1-f0c82a6734c2" width=450 height=300/>
 </div>
 
-- RTMW: \[technical report\](coming soon)
+- RTMW & RTMW3D: [\[technical report\]](https://arxiv.org/abs/2407.08634)
 <div align=center>
-<img src="https://github.com/open-mmlab/mmpose/assets/13503330/635c4618-c459-45e8-84a5-eb68cf338d00" width=450 height=550/>
+<img src="https://github.com/open-mmlab/mmpose/assets/13503330/635c4618-c459-45e8-84a5-eb68cf338d00" width=300 height=400/>
+<img src="https://github.com/user-attachments/assets/a91d0f2e-e6bd-497a-bed7-2c4fd299e553" width=600 height=400/>
 </div>

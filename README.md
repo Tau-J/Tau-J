@@ -4,7 +4,7 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
-Hey, I’m a Shanghai-based researcher working on AGI at [Moonshot.AI](http://moonshot.ai), basically trying to figure out how smart machines can get and how to keep them that way. Before this, I helped with post-training on the InternLM model at Shanghai AI Lab and led the [MMPose](https://github.com/open-mmlab/mmpose) project at OpenMMLab, where I built human-centric perception algorithms, especially pose estimation.
+Hey, I’m a Shanghai-based researcher working on AGI at [Moonshot.AI](http://moonshot.ai), basically trying to figure out how smart machines can get and how to keep them that way. Before this, I helped with post-training on the [InternLM-series](https://arxiv.org/abs/2403.17297) at Shanghai AI Lab and led the [MMPose](https://github.com/open-mmlab/mmpose) project at OpenMMLab, where I built human-centric perception algorithms, especially pose estimation.
 
 My big passion is making AI that’s not just powerful, but dependable and trustworthy for the long haul.
 
@@ -18,7 +18,7 @@ My big passion is making AI that’s not just powerful, but dependable and trust
   - [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/)
   - [AgentLego](https://github.com/open-mmlab/agentlego)
 - Human-centric perception tasks, focusing on human pose estimation
-  - [RTMW](https://arxiv.org/abs/2407.08634)
+  - [RTMW3D](https://arxiv.org/abs/2407.08634)
   - [RTMO](https://arxiv.org/abs/2312.07526)
   - [RTMPose](https://arxiv.org/abs/2303.07399)
   

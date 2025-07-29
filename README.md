@@ -9,7 +9,7 @@ Hey, I’m a Shanghai-based researcher working on AGI at [Moonshot.AI](http://mo
 My big passion is making AI that’s not just powerful, but dependable and trustworthy for the long haul.
 
 - Large Language Models pretraining and alignment
-  - [Kimi K2](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
+  - [Kimi K2](https://arxiv.org/abs/2507.20534)
   - [MoBA](https://arxiv.org/abs/2502.13189)
   - [Kimi K1.5](https://arxiv.org/abs/2501.12599)
   - [InternLM2](https://arxiv.org/abs/2403.17297)

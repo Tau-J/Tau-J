@@ -4,11 +4,12 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
-Hey, I’m a Shanghai-based researcher working on AGI at [Moonshot.AI](http://moonshot.ai), basically trying to figure out how smart machines can get and how to keep them that way. Before this, I helped with post-training on the [InternLM-series](https://arxiv.org/abs/2403.17297) at Shanghai AI Lab and led the [MMPose](https://github.com/open-mmlab/mmpose) project at OpenMMLab, where I built human-centric perception algorithms, especially pose estimation.
+Hey, I’m a Shanghai-based researcher working on AGI at **RedNote HiLab**, basically trying to figure out how smart machines can get and how to keep them that way. Before this,  I worked on post-training(RL Team) at [Moonshot.AI](http://moonshot.ai). I also helped with post-training on the [InternLM-series](https://arxiv.org/abs/2403.17297) at Shanghai AI Lab and led the [MMPose](https://github.com/open-mmlab/mmpose) project at OpenMMLab, where I built human-centric perception algorithms, especially pose estimation.
 
 My big passion is making AI that’s not just powerful, but dependable and trustworthy for the long haul.
 
 - Large Language Models pretraining and alignment
+  - [Kimi K2.5](https://arxiv.org/pdf/2602.02276)
   - [Kimi K2 Thinking](https://moonshotai.github.io/Kimi-K2/thinking.html)
   - [Kimi K2](https://arxiv.org/abs/2507.20534)
   - [MoBA](https://arxiv.org/abs/2502.13189)

@@ -4,7 +4,7 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tau-J&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tau-J&theme=tokyonight&layout=compact" height="150"> </div>
 
-I'm an algorithm researcher based in Shanghai, currently working at **RedNote HiLab**.
+I'm an algorithm researcher based in Shanghai, currently working at [**RedNote hiLab**](https://studio.dots.ai/).
 
 Previously, I was a **Technical Staff** on the RL Team at [Moonshot.AI](http://moonshot.ai), where I contributed to the post-training of the **Kimi series** (K0 → K2.5).
 
